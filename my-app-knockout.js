@@ -1,20 +1,20 @@
 var catsData =[
     {
       name:"cat",
-      src:"cat.jpeg",
+      src:"img/cat.jpeg",
       clicks:0,
       nicknames:['nick1','hu']
 
     },
     {
       name:"cat2",
-      src:"cat2.jpeg",
+      src:"img/cat2.jpeg",
       clicks:0,
       nicknames:['nick2','koko']
     },
     {
       name:"cat3",
-      src:"cat3.jpeg",
+      src:"img/cat3.jpeg",
       clicks:0,
       nicknames:['nick3','jiji']
     }
